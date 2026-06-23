@@ -1,0 +1,7 @@
+Credenciales de conexión:
+
+BD producción: aprodateniadb.postgres.database.azure.com
+puerto conexión : 5432
+POSTGRES_DB: aprodateniadb
+POSTGRES_PASSWORD: G3Q7HcaEv]$79(ie(0B+
+POSTGRES_USER: user_app_notificacionsms
